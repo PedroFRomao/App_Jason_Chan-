@@ -5,6 +5,7 @@ Nosso aplicativo utiliza o NetworkImage em vez de assests, então organizamos es
 
 
 ### Tela Home
+![brazaoBG](https://github.com/user-attachments/assets/45e048f0-ca64-4d37-9188-527e5c3a94ac)
 
 
 ### Tela Bio
